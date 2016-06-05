@@ -55,6 +55,11 @@ if(Meteor.isServer) {
 			});
 		},
 
+		"users.changePassword"(newPassword) {
+			check(newPassword, String);
+			Accounts.setPassword(this.userId, newPassword, {logout: false});
+		},
+
 		"changeRole"(userId, role) {
 			if(!Roles.userIsInRole(this.userId, "admin")) {
 				throw new Meteor.Error("not-authorized");

@@ -23,7 +23,8 @@ class UserDetails extends Component {
 	}
 
 	handlePasswordChangeSubmit() {
-		console.log("TODO - handle change password");
+		Meteor.call("users.changePassword", this.state.password);
+		this.setState({password: ""});
 	}
 
 	getEmailButtonClasses() {

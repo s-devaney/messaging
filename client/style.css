@@ -127,6 +127,11 @@ body {
 	margin: 0;
 }
 
+#content.undocked {
+	width: 100%;
+	flex: none;
+}
+
 #side-container {
 	height: 100%;
 	display: -ms-flexbox;
@@ -147,6 +152,10 @@ body {
 	-webkit-align-items: flex-start;
 	-ms-flex-align: start;
 	align-items: flex-start;
+}
+
+#side-container.hidden {
+	display: none;
 }
 
 #menu-header {
