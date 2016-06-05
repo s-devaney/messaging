@@ -116,5 +116,22 @@ Meteor.methods({
 		Messages.remove({
 			to: this.userId
 		});
+	},
+
+	"users.create"(formData, cb) {
+		check(formData, Object);
+
+		const id = Accounts.createUser({
+			email: formData.email,
+			password: formData.password
+		});
+
+		console.log(id);
+
+		check(id, String);
+
+		Roles.addUsersToRoles(id, "default");
+
+		cb();
 	}
 });

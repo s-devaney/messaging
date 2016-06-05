@@ -13,20 +13,10 @@ export default class Register extends Component {
 			password: ReactDOM.findDOMNode(this.refs.password).value
 		}
 
-		const id = Accounts.createUser({
-			email: formData.email,
-			password: formData.password
-		}, function(error) {
-			if(error) {
-				console.log("register error");
-				console.log(error);
-			} else {
-				console.log("register successful");
-				FlowRouter.go("/messages");
-			}
+		Meteor.call("users.create", formData, function() {
+			console.log("register successful");
+			FlowRouter.go("/messages");
 		});
-
-		Roles.addUsersToRole(id, "default");
 	}
 
 	render() {
@@ -38,7 +28,7 @@ export default class Register extends Component {
 				</div>
 				<div className="field">
 					<label>Password</label>
-					<input type="text" ref="password" placeholder="Password" />
+					<input type="password" ref="password" placeholder="Password" />
 				</div>
 				<button className="ui blue button" type="submit">Register</button>
 			</form>
