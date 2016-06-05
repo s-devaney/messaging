@@ -1,0 +1,903 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"selected",
+				"selectedRole"
+			],
+			[
+				"onSelec",
+				"onSelectedRoleChanged"
+			],
+			[
+				"handl",
+				"handleChangePassword"
+			],
+			[
+				"createC",
+				"createCheckedMap"
+			],
+			[
+				"authenti",
+				"authenticatedRoutes"
+			],
+			[
+				"messa",
+				"messagesCursor"
+			],
+			[
+				"message",
+				"Messages"
+			],
+			[
+				"authent",
+				"authenticatedRoutes"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"sailsio",
+				"sailsiobackbone"
+			],
+			[
+				"paper",
+				"paperMaterial"
+			],
+			[
+				"e",
+				"el"
+			],
+			[
+				"init",
+				"initialized"
+			],
+			[
+				"initi",
+				"initializeView"
+			],
+			[
+				"sess",
+				"sessionState"
+			],
+			[
+				"sesson",
+				"sessionChannel"
+			],
+			[
+				"initia",
+				"initialize"
+			],
+			[
+				"Messa",
+				"MessagesApp"
+			],
+			[
+				"getUserEn",
+				"getUserEntity"
+			],
+			[
+				"getUserEnti",
+				"getUserEntities"
+			],
+			[
+				"session",
+				"sessionChannel"
+			],
+			[
+				"Backbo",
+				"BackboneAuth"
+			],
+			[
+				"Bac",
+				"BackboneAuth"
+			],
+			[
+				"Header",
+				"HeaderCollection"
+			],
+			[
+				"filter",
+				"filterCriterion"
+			],
+			[
+				"_current",
+				"_currentFilter"
+			],
+			[
+				"_curren",
+				"_currentCriteron"
+			],
+			[
+				"collection",
+				"collectionView"
+			],
+			[
+				"Contac",
+				"ContactsApp"
+			],
+			[
+				"edit",
+				"edit"
+			],
+			[
+				"ini",
+				"initalize"
+			],
+			[
+				"Employee",
+				"EmployeeListView"
+			],
+			[
+				"Emplo",
+				"EmployeeDetailTemplate"
+			],
+			[
+				"em",
+				"employeeForm"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"au",
+				"auto-binding"
+			],
+			[
+				"app-r",
+				"app-router"
+			],
+			[
+				"onkey",
+				"onkeypress	Attr"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"swip",
+				"swipeable-card"
+			],
+			[
+				"vi",
+				"viewportToPX"
+			],
+			[
+				"add",
+				"addPlayerToLeaderboard"
+			],
+			[
+				"sender",
+				"senderIndex"
+			],
+			[
+				"current",
+				"currentQuestion"
+			],
+			[
+				"onPlayer",
+				"onPlayerDisconnect"
+			],
+			[
+				"onSen",
+				"onSenderConnect"
+			],
+			[
+				"send",
+				"senderId"
+			],
+			[
+				"player",
+				"playerObj"
+			],
+			[
+				"clear",
+				"clearGuess"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "imports/ui/components/UserRoles.jsx",
+			"settings":
+			{
+				"buffer_size": 2483,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "imports/ui/components/AuthenticatedNavigation.jsx",
+			"settings":
+			{
+				"buffer_size": 1604,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "imports/ui/components/SelectUser.jsx",
+			"settings":
+			{
+				"buffer_size": 1013,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "imports/ui/components/UserRole.jsx",
+			"settings":
+			{
+				"buffer_size": 1476,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "imports/api/messages/messages.js",
+			"settings":
+			{
+				"buffer_size": 2147,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "imports/ui/components/UserList.jsx",
+			"settings":
+			{
+				"buffer_size": 2549,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: HTML"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Development/messaging",
+		"/F/Development/messaging/imports",
+		"/F/Development/messaging/imports/api",
+		"/F/Development/messaging/imports/api/messages",
+		"/F/Development/messaging/imports/lib",
+		"/F/Development/messaging/imports/startup",
+		"/F/Development/messaging/imports/startup/client",
+		"/F/Development/messaging/imports/ui",
+		"/F/Development/messaging/imports/ui/components",
+		"/F/Development/messaging/imports/ui/layouts",
+		"/F/Development/messaging/imports/ui/pages",
+		"/F/Development/messaging/node_modules",
+		"/F/Development/messaging/server"
+	],
+	"file_history":
+	[
+		"/F/Development/messaging/imports/ui/layouts/Admin.jsx",
+		"/F/Development/messaging/imports/ui/components/UserStats.jsx",
+		"/F/Development/messaging/imports/ui/components/UserRole.jsx",
+		"/F/Development/messaging/imports/ui/components/UserDetails.jsx",
+		"/F/Development/messaging/imports/ui/layouts/Settings.jsx",
+		"/F/Development/messaging/imports/ui/pages/Login.jsx",
+		"/F/Development/messaging/imports/ui/components/MessagingStats.jsx",
+		"/F/Development/messaging/imports/ui/components/UserList.jsx",
+		"/F/Development/messaging/imports/ui/layouts/App.jsx",
+		"/F/Development/messaging/imports/startup/client/routes.jsx",
+		"/F/Development/messaging/imports/api/messages/messages.js",
+		"/F/Development/messaging/imports/ui/pages/Settings.jsx",
+		"/F/Development/messaging/imports/ui/components/AuthenticatedNavigation.jsx",
+		"/F/Development/messaging/imports/ui/components/UserDisable.jsx",
+		"/F/Development/messaging/imports/ui/pages/Register.jsx",
+		"/F/Development/messaging/imports/ui/components/Message.jsx",
+		"/F/Development/messaging/client/style.css",
+		"/F/Development/messaging/imports/ui/pages/Admin.jsx",
+		"/F/Development/messaging/imports/ui/layouts/UserStats.jsx",
+		"/F/Development/messaging/imports/ui/components/PublicNavigation.jsx",
+		"/F/Development/messaging/imports/ui/pages/NewMessage.jsx",
+		"/F/Development/messaging/imports/ui/layouts/Messages.jsx",
+		"/F/Development/messaging/client/head.html",
+		"/F/Development/messaging/imports/ui/pages/Messages.jsx",
+		"/F/Development/messaging/imports/api/messages/server/methods.js",
+		"/F/Development/messaging/imports/ui/layouts/Toolbar.jsx",
+		"/F/Development/messaging/imports/lib/FlowHelpers.js",
+		"/F/Development/messaging/server/main.js",
+		"/F/Development/messaging/imports/ui/layouts/Sidebar.jsx",
+		"/F/Development/messaging/imports/ui/pages/Home.jsx",
+		"/F/Development/messaging/imports/startup/server/accounts-config.js",
+		"/F/Development/semantic/imports/ui/Sidebar.jsx",
+		"/F/Development/messaging/imports/startup/client/index.js",
+		"/F/Development/messaging/client/main.js",
+		"/F/Development/messaging/client/custom.semantic.json",
+		"/F/Development/todos/imports/ui/layouts/app-body.html",
+		"/F/Development/todos/imports/ui/layouts/app-body.js",
+		"/F/Development/todos/imports/startup/client/routes.js",
+		"/F/Development/todos/imports/startup/client/index.js",
+		"/F/Development/todos/client/main.js",
+		"/F/Development/semantic/imports/ui/App.jsx",
+		"/F/Development/semantic/imports/ui/Login.jsx",
+		"/F/Development/semantic/client/head.html",
+		"/F/Development/todos/imports/startup/server/fixtures.js",
+		"/F/Development/todos/imports/ui/accounts/accounts-templates.js",
+		"/F/Development/todos/imports/ui/accounts/accounts-templates.html",
+		"/F/Development/semantic/client/main.html",
+		"/F/Development/todos/client/head.html",
+		"/F/Development/impossiblelist/.meteor/packages",
+		"/F/Development/semantic/imports/ui/Content.jsx",
+		"/F/Development/impossiblelist/package.json",
+		"/C/Users/Sam Devaney/AppData/Local/.meteor/packages/meteor-tool/1.3.1/mt-os.windows.x86_32/dev_bundle/bin/npm.cmd",
+		"/F/Development/semantic/imports/auth/auth.js",
+		"/F/Development/semantic/index.html.bak",
+		"/F/Development/semantic/package.json",
+		"/F/Development/semantic/client/main.jsx",
+		"/F/Development/semantic/client/style.css",
+		"/F/Development/semantic/.gitignore",
+		"/F/Development/semantic/.meteor/.gitignore",
+		"/F/Development/semantic/client/custom.semantic.json",
+		"/F/Development/semantic/style.css",
+		"/F/Development/semantic/index.html",
+		"/Users/samdevaney/Development/semantic/style.css",
+		"/Users/samdevaney/Development/semantic/bower_components/semantic/src/theme.config.example",
+		"/Users/samdevaney/Development/semantic/bower_components/semantic/src/README.md",
+		"/Users/samdevaney/Development/Football/assets/index.html",
+		"/Users/samdevaney/Development/meteor/bower.json",
+		"/Users/samdevaney/Development/meteor/.bowerrc",
+		"/F/Development/Football/api/services/LeagueService.js",
+		"/F/Development/Football/api/models/Sequence.js",
+		"/F/Development/Football/api/services/DivisionService.js",
+		"/F/Development/Football/api/models/League.js",
+		"/F/Development/Football/api/models/Division.js",
+		"/F/Development/Football/api/models/Player.js",
+		"/F/Development/Football/api/models/Club.js",
+		"/F/Development/Football/api/services/TransferService.js",
+		"/F/Development/Football/api/models/TransferOffer.js",
+		"/F/Development/Football/api/services/QualityService.js",
+		"/F/Development/Football/api/models/Message.js",
+		"/F/Development/Football/api/services/TestRecords.js",
+		"/F/Development/Football/.sailsrc",
+		"/F/Development/Football/api/services/PlayerService.js",
+		"/F/Development/Football/api/services/ClubService.js",
+		"/F/Development/Football/api/services/NameService.js",
+		"/F/Development/Football/.gitignore",
+		"/F/Development/Football/assets/index.html",
+		"/F/Development/Football/package.json",
+		"/F/Development/Football/test/tests/controllers/UserController.test.js",
+		"/F/Development/Football/api/controllers/UserController.js",
+		"/F/Development/Football/test/bootstrap.test.js",
+		"/F/Development/Football/test/tests/controllers/JobController.test.js",
+		"/F/Development/Football/api/controllers/AuthController.js",
+		"/F/Development/Football/api/responses/badRequest.js",
+		"/F/Development/Football/api/controllers/JobController.js",
+		"/F/Development/Football/api/responses/ok.js",
+		"/F/Development/Football/test/mocha.opts",
+		"/F/Development/Football/test/util.js",
+		"/F/Development/Football/test/tests/controllers/ClubController.test.js",
+		"/F/Development/Football/test/tests/controllers/AuthController.test.js",
+		"/F/Development/Football/api/responses/unauthorized.js",
+		"/F/Development/Football/api/responses/serverError.js",
+		"/F/Development/Football/test/tests/models/User.test.js",
+		"/F/Development/Football/api/models/User.js",
+		"/F/Development/Football/config/passport.js",
+		"/F/Development/Football/api/services/CipherService.js",
+		"/F/Development/Football/config/log.js",
+		"/F/Development/Football/api/services/Util.js",
+		"/F/Development/Football/assets/js/app/team/app.js",
+		"/F/Development/Football/assets/js/main.js",
+		"/F/Development/Football/assets/js/app/team/list/view.js",
+		"/F/Development/Football/assets/elements/list-messages/list-messages.html",
+		"/F/Development/Football/assets/js/app/team/list/controller.js",
+		"/F/Development/Football/assets/elements/list-team/list-team.html",
+		"/F/Development/Football/assets/js/app/team/list/template/team.tpl",
+		"/F/Development/Football/assets/js/app/team/list/entity.js",
+		"/F/Development/Football/api/controllers/ClubController.js",
+		"/F/Development/Football/assets/js/app/menu/entity.js",
+		"/F/Development/Football/assets/js/app/menu/list/controller.js",
+		"/F/Development/Football/assets/js/app/jobs/list/controller.js",
+		"/F/Development/Football/assets/js/app/game/entity/user.js",
+		"/F/Development/Football/assets/js/app/game/app.js",
+		"/F/Development/Football/assets/js/app/game/controller.js",
+		"/F/Development/Football/assets/js/socket_config.js",
+		"/F/Development/Football/assets/js/require_config.js",
+		"/F/Development/backbone-to-sails/sails.io.backbone.js",
+		"/F/Development/Football/config/blueprints.js",
+		"/F/Development/Football/config/routes.js",
+		"/F/Development/backbone-to-sails/bower.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"F:\\Development\\backbone-auth\\assets\\js\\app",
+			"F:\\Development\\Football\\bower_components\\iron-selector",
+			"F:\\Development\\Football\\bower_components\\iron-menu-behavior",
+			"F:\\Development\\Football\\bower_components\\iron-selector",
+			"F:\\Development\\Football\\bower_components\\more-routing",
+			"F:\\Development\\Football\\bower_components",
+			"F:\\Development\\Football\\bower_components\\more-routing\\driver"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\";\n",
+			"react",
+			"socket",
+			"backbone cannot",
+			"set",
+			"_view",
+			"Controller",
+			"Menu",
+			"Controller",
+			"bower6_components",
+			"header-template",
+			"frame",
+			"initConfig",
+			"console.log(\"login\")",
+			"users-region",
+			"contactsRegion",
+			"panelREgion",
+			"contactsRegion",
+			"contacts-region",
+			"contact-region",
+			"contact",
+			"contactView",
+			"error",
+			"'",
+			"#menu",
+			"console.log",
+			"selectedClass",
+			"iron-selected",
+			"_setRoute",
+			"setCurrentPath",
+			"setRoute",
+			"messages",
+			"fire",
+			"selected-item-changed",
+			"attached",
+			"alert",
+			"setRoute",
+			"_setRoute",
+			"better-paper-item",
+			"#menu",
+			"better-paper-item",
+			"paper-item",
+			"_activateEventChanged",
+			"_addListener",
+			"activateEvent",
+			"activeateEvent",
+			"_addListener",
+			"_setfocusedItem",
+			"tap",
+			"#!",
+			"!",
+			"<a",
+			"selected",
+			"valueattr",
+			"-->",
+			"<-",
+			"<",
+			"<!--",
+			"function resolve",
+			"material",
+			"paper-item",
+			"#fff",
+			";\n",
+			"paper-toolbar",
+			"}\n",
+			"computeDrawe",
+			"mode",
+			"computeMediaQuery",
+			"drawerWidth",
+			"computeDrawerStyle",
+			"computerDrawerStyle",
+			"drawerWidth",
+			"drawerPanel",
+			"drawer-panel",
+			"width",
+			"e4",
+			"r4",
+			"frame",
+			"shadow",
+			"main",
+			"narrow",
+			"core",
+			"sub",
+			"core",
+			"bower-components",
+			"../../../",
+			"transitionend",
+			"transition",
+			"swipeEnd",
+			";\n",
+			"swipedChanged",
+			"this.offsetWi",
+			"dragging",
+			"transitionEnd",
+			"material",
+			"paper-material",
+			"transitionEnd",
+			"core",
+			"session.game.data.questions.data",
+			"session.game.data.questions",
+			"getQuestion",
+			"font-size",
+			"device",
+			"API",
+			"kickstart",
+			"z-index",
+			"messageListener",
+			"getHost",
+			"getSenderBy",
+			"route",
+			"selectRoute",
+			"getRoutes",
+			"getRoutes()",
+			"onStop",
+			"onPause",
+			"onStop",
+			"onPause",
+			"namespace",
+			"messageLi",
+			"messagelistener",
+			"namespace",
+			".score",
+			"red",
+			"lobby",
+			".red",
+			".green",
+			"broadcast",
+			"cast.js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			".menu",
+			"paper-item",
+			".menu",
+			"paper-item",
+			"better-paper-item",
+			"paper",
+			"bower_components",
+			"../../../bower-components/",
+			"paper-task",
+			".points",
+			"light-grey"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "F:\\Development\\messaging"
+		},
+		{
+			"path": "F:\\Development\\semantic"
+		},
+		{
+			"path": "F:\\Development\\todos"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "imports/ui/components/UserRoles.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1160,
+								1160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "imports/ui/components/AuthenticatedNavigation.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								800,
+								800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "imports/ui/components/SelectUser.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "imports/ui/components/UserRole.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								728,
+								728
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "imports/api/messages/messages.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1662,
+								1662
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "imports/ui/components/UserList.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2549,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 805.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
